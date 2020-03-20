@@ -1,3 +1,5 @@
+![CI](https://github.com/SafeBoda/throttlex/workflows/CI/badge.svg)
+
 # Throttlex
 > ### Throttle/Circuit Breaker Utilities
 
