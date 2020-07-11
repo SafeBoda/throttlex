@@ -1,6 +1,8 @@
 # Throttlex
 > ### Throttle/Circuit Breaker Utilities
 
+![CI](https://github.com/SafeBoda/throttlex/workflows/CI/badge.svg)
+
 ## Installation
 
 The package can be installed by adding `throttlex` to your list of dependencies
